@@ -1,0 +1,12 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "id": "36d5a946-96ec-47cd-a3c1-678c7840d560",
+  "author": "Workstation Setup Package",
+  "description": {
+    "": "Create and validate a 10 x 20 x 5 mm test solid in a new document."
+  },
+  "version": "1.0.0",
+  "runOnStartup": false,
+  "supportedOS": "windows|mac"
+}
